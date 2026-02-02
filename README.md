@@ -22,3 +22,20 @@ Possible future extensions may include:
 - extended reporting features.
 
 These extensions represent potential directions for continued learning and development.
+
+## Screenshots
+
+### Monthly Summary
+![Monthly summary](screenshots/monthly-summary.png)
+
+### Add Transaction
+![Add transaction](screenshots/add-transaction.png)
+
+### Edit / Delete Transaction
+![Edit delete transaction](screenshots/edit-delete-transaction.png)
+
+### Budget Warning
+![Budget warning](screenshots/budget-warning.png)
+
+### Goal Progress
+![Goal progress](screenshots/goal-progress.png)

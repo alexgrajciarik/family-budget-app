@@ -1,18 +1,28 @@
 # Family Budget App
 
-This project is a simple mobile budget tracking application developed as a learning project using Expo and React Native.
+This project is a simple mobile budget tracking application developed as an early-stage learning project using Expo and React Native.
 
-The main goal was not to build a production-ready application, but to understand the mobile app development process, including:
+The main goal of the project was not to build a production-ready application, but to better understand the mobile app development process, including:
 - defining a clear problem and goal,
 - breaking the solution into logical steps,
 - working with project structure and core components,
-- and iteratively improving functionality.
+- managing application state and user input,
+- and iteratively improving functionality based on testing and reflection.
 
-The project was developed using a learning-by-doing approach.  
-AI tools were used as supportive resources, similar to documentation or tutorials, to help explore approaches and clarify concepts, while all implementation decisions were made based on understanding the application’s goals and logic.
+The project was developed using a learning-by-doing approach, with a strong focus on understanding concepts rather than copying ready-made solutions.
+
+AI tools were used as supportive resources, similar to documentation or tutorials, to explore possible approaches and clarify concepts.  
+All implementation decisions were made based on understanding the application’s goals, logic, and expected behaviour.
 
 This project represents an early-stage learning experience and a growing interest in mobile development, problem-solving, and modern development tools.  
 It serves as a practical foundation that will be further developed through formal study.
+
+## Tools & Technologies
+
+- React Native (learning project)
+- Expo
+- JavaScript (basic)
+- Git / GitHub
 
 ## Possible Future Extensions
 
